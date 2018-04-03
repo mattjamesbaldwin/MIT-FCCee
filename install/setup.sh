@@ -5,10 +5,10 @@
 echo "Setting up your sample generation"
 
 # Change these paths to match the configuration of your install directories
-folder=/afs/cern.ch/user/m/mbaldwin/CMSSW_7_6_3_patch2/src/MIT-FCCee # Full path of the MIT-FCCee folder
-src=/afs/cern.ch/user/m/mbaldwin/CMSSW_7_6_3_patch2/src # Full path of the src folder in your CMSSW directory 
+folder=/afs/cern.ch/user/m/mbaldwin/CMSSW_10_1_0/src/MIT-FCCee # Full path of the MIT-FCCee folder
+src=/afs/cern.ch/user/m/mbaldwin/CMSSW_10_1_0/src # Full path of the src folder in your CMSSW directory 
 whizard=whizard/build # Location of whizard directory in src folder
-pythia=pythia/pythia8212 # Location of pythia dirctory in src folder
+pythia=pythia/pythia8235 # Location of pythia dirctory in src folder
 delphes=delphes # Location of delpges in src folder
 coupling=tlep-couplings # Location of tlep-couplings in src folder
 higgsanalysis=HiggsAnalysis/CombinedLimit # Location of CombinedLimit in src folder
