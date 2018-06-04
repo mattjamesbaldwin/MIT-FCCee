@@ -5,8 +5,8 @@
 echo "Setting up your sample generation"
 
 # Change these paths to match the configuration of your install directories
-folder=/afs/cern.ch/user/m/mbaldwin/CMSSW_8_0_31/src/MIT-FCCee # Full path of the MIT-FCCee folder
-src=/afs/cern.ch/user/m/mbaldwin/CMSSW_8_0_31/src # Full path of the src folder in your CMSSW directory 
+folder=/afs/cern.ch/user/m/mbaldwin/CMSSW_9_4_0/src/MIT-FCCee # Full path of the MIT-FCCee folder
+src=/afs/cern.ch/user/m/mbaldwin/CMSSW_9_4_0/src # Full path of the src folder in your CMSSW directory 
 whizard=whizard/build # Location of whizard directory in src folder
 pythia=pythia/pythia8235 # Location of pythia dirctory in src folder
 delphes=delphes # Location of delpges in src folder
